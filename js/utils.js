@@ -1,5 +1,5 @@
 // Global configuration
-const BASE_URL = 'https://blog-app-0qhy.onrender.com/';
+const BASE_URL = 'https://blog-app-0qhy.onrender.com';
 
 // Utility functions
 const utils = {
